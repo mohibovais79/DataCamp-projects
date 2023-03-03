@@ -1,0 +1,1 @@
+In this project, I have applied the skills learned in Introduction to Python and Intermediate Python to solve a real-world data science problem. Using everything from lists and loops to pandas and matplotlib.
